@@ -19,3 +19,6 @@ Responsive Design: Optimized for both desktop and mobile viewing.
 
 
  ![Description of Image]( https://github.com/Anuragpandey26/travelapp/blob/d90e8ff695bfa76a9628bed9951f0d6504ea24e8/Screenshot%20(24).png)
+
+
+  ![Description of Image]( https://github.com/Anuragpandey26/travelapp/blob/59f9708c3b9a8da4a425c75c98afae0a41765dc8/Screenshot%20(25).png)
