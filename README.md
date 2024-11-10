@@ -15,3 +15,7 @@ Filtering and Sorting: Search packages by location and sort by price.
 Booking: Allows users to book travel packages.
 
 Responsive Design: Optimized for both desktop and mobile viewing.
+
+
+
+ ![Description of Image]( https://github.com/Anuragpandey26/travelapp/blob/d90e8ff695bfa76a9628bed9951f0d6504ea24e8/Screenshot%20(24).png)
